@@ -22,7 +22,7 @@
 	<svelte:fragment slot="overlays">
 		<div class="position: relative">
 			<h2
-				style="position: absolute; bottom: 50px; left: 50%; transform: translate(-50%, -50%); font-size: 36px; color: #fff"
+				style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, -50%); font-size: 36px; color: #fff"
 			>
 				Scroll down for more info...
 			</h2>
@@ -58,7 +58,7 @@
 		</div>
 		<div>
 			<ScrollerCard
-				>Or just at <span class="highlight">830pm</span> for some indoor party time!</ScrollerCard
+				>Or just at <span class="highlight">830pm</span> for some indoor party time! (Fully &#128137; only)</ScrollerCard
 			>
 		</div>
 		<div>
