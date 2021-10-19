@@ -53,7 +53,7 @@
 		</div>
 		<div>
 			<ScrollerCard
-				>Join us at <span class="highlight">700pm</span> for some pumpkin carving!</ScrollerCard
+				>Join us at <span class="highlight">700pm</span> for some pumpkin carving! (BYO &#x1f383;)</ScrollerCard
 			>
 		</div>
 		<div>
