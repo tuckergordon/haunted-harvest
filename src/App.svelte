@@ -4,7 +4,7 @@
 	import ImageScroller from "./scroller/ImageScroller.svelte";
 	import ScrollerCard from "./scroller/ScrollerCard.svelte";
 
-	const partyDate = new Date("2021-10-23T24:30:00Z");
+	const partyDate = new Date("2021-10-23T23:00:00Z");
 </script>
 
 <ImageScroller>
