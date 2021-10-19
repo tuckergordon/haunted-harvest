@@ -10,7 +10,7 @@
     <h3>...but also make it spooky &#128123;</h3>
   </div>
   <div style="background: black; color: #ff8f00; padding: 1em 2em">
-    <h2>Friday, 10/22</h2>
+    <h2>Saturday, 10/23</h2>
     <h2>&#x1f383; at 7, &#128131; at 8:30</h2>
     <h2>Emerson</h2>
   </div>
